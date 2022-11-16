@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Eliza</string>
+    <string name="inventory_destination">inventoryDestination</string>
+    <string name="quantity">Cantidad</string>
+    <string name="name">Producto</string>
+    <string name="inventory_summary">Resumen del inventario</string>
+    <string name="suppliers">Proveedores</string>
+    <string name="money">Contabilidad</string>
+    <string name="assets">Activos</string>
+    <string name="passives">Pasivos</string>
+    <string name="patrimony">Patrimonio</string>
+    <string name="zero">0</string>
+    <string name="providers_list">Listado de proveedores</string>
+    <string name="add">Agregar</string>
+    <string name="add_products">Solicitar productos</string>
+    <string name="make_sell">Registrar ventas</string>
+    <string name="search_product">Buscar producto</string>
+    <string name="no_products">No hay productos disponibles</string>
+    <string name="quantity_available">Cantidad disponible:</string>
+    <string name="cancel">cancelar</string>
+    <string name="quantity_value">Cantidad disponible: %1$s</string>
+</resources>
