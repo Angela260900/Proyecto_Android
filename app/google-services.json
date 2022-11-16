@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241824664702",
+    "project_id": "eliza-10d79",
+    "storage_bucket": "eliza-10d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241824664702:android:2846014efc129eeda55c2f",
+        "android_client_info": {
+          "package_name": "com.example.eliza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241824664702-f639l2kkr5rb2g5ff2cqqi5veuhba5m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAczZdpx72DQHASwp5lEZW6f-sYvAbUzdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241824664702-f639l2kkr5rb2g5ff2cqqi5veuhba5m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
