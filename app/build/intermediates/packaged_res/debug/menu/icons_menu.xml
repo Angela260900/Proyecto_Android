@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_suppliers"
+        android:icon="@drawable/ic_round_local_shipping_24"
+        android:title="@string/suppliers"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_money"
+        android:icon="@drawable/ic_round_attach_money_24"
+        android:title="@string/money"
+        app:showAsAction="ifRoom" />
+
+</menu>
